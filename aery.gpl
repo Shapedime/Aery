@@ -1,0 +1,30 @@
+GIMP Palette
+Name: Shattered Hours - Aery
+Columns: 8
+#
+ 13  10  20	ink
+242 204 164	skin_5
+213 156 120	skin_4
+169 106  80	skin_3
+154  98  57	wood_light
+111  65  46	wood_mid
+ 74  43  40	wood_dark
+ 43  26  32	wood_shadow
+221 131  82	copper_light
+172  81  50	copper_mid
+110  47  38	copper_dark
+227 210 173	parchment_light
+191 164 129	parchment
+140 115  86	parchment_dark
+138 144 166	stone_light
+ 98 103 128	stone_mid
+ 66  69  92	stone_dark
+ 42  43  61	stone_shadow
+252 230 140	brass_highlight
+233 185  71	brass_light
+196 135  44	brass_mid
+138  86  38	brass_dark
+ 79  50  32	brass_shadow
+198 248 236	time_highlight
+ 99 212 214	time_light
+ 42 147 174	time_mid

@@ -1,0 +1,64 @@
+GIMP Palette
+Name: Shattered Hours
+Columns: 8
+#
+ 13  10  20	ink
+ 25  20  43	void_deep
+ 38  32  64	void
+ 59  52  96	void_light
+ 90  82 136	void_haze
+ 42  43  61	stone_shadow
+ 66  69  92	stone_dark
+ 98 103 128	stone_mid
+138 144 166	stone_light
+185 189 203	stone_highlight
+ 45  34  41	earth_shadow
+ 74  57  54	earth_dark
+107  85  71	earth_mid
+140 115  86	parchment_dark
+191 164 129	parchment
+227 210 173	parchment_light
+247 240 222	white_warm
+ 43  26  32	wood_shadow
+ 74  43  40	wood_dark
+111  65  46	wood_mid
+154  98  57	wood_light
+189 138  94	wood_highlight
+ 79  50  32	brass_shadow
+138  86  38	brass_dark
+196 135  44	brass_mid
+233 185  71	brass_light
+252 230 140	brass_highlight
+110  47  38	copper_dark
+172  81  50	copper_mid
+221 131  82	copper_light
+ 27  79 107	time_dark
+ 42 147 174	time_mid
+ 99 212 214	time_light
+198 248 236	time_highlight
+ 37  12  46	rift_shadow
+ 79  23  85	rift_dark
+135  40 118	rift_mid
+201  68 152	rift_light
+244 140 195	rift_highlight
+ 87  20  31	red_dark
+149  34  47	red_mid
+212  72  60	red_light
+243 150  77	ember
+ 22  55  41	green_shadow
+ 34  85  56	green_dark
+ 58 133  69	green_mid
+112 179  77	green_light
+181 217 110	green_highlight
+ 28  49  99	blue_dark
+ 45  91 163	blue_mid
+ 75 145 209	blue_light
+156 205 240	blue_highlight
+ 60  45 107	lilac_dark
+103  80 164	lilac_mid
+154 133 212	lilac_light
+ 69  40  42	skin_1
+116  67  58	skin_2
+169 106  80	skin_3
+213 156 120	skin_4
+242 204 164	skin_5
